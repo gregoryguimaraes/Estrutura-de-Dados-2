@@ -1,0 +1,16 @@
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Kenji\Desktop\Facul\ED1I4\Atividade_20-10-2021-form\Atividade_20-10-2021\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
